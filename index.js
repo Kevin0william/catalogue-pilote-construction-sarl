@@ -695,9 +695,9 @@ document.addEventListener('DOMContentLoaded', () => {
         // Tôle
         {
             category: 'tole',
-            name: 'Tôle Galvanisée',
-            description: 'Tôle galvanisée résistante à la corrosion.',
-            image: ''
+            name: 'Tôle ondulé',
+            description: 'Tôle ondulé aluminium nature disponible en socatrale et importer',
+            image: 'tole_ondulee.JPG'
         },
         {
             category: 'tole',
