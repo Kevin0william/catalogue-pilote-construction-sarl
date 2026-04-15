@@ -697,7 +697,7 @@ document.addEventListener('DOMContentLoaded', () => {
             category: 'tole',
             name: 'Tôle ondulé',
             description: 'Tôle ondulé aluminium nature disponible en socatrale et importer',
-            image: 'tole_ondulee.JPG'
+            image: 'Tole_ondulee.JPG'
         },
         {
             category: 'tole',
