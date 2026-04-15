@@ -5,86 +5,81 @@ document.addEventListener('DOMContentLoaded', () => {
     category: 'carreaux-20x20',
     name: 'FGP 22003C',
     description: 'Carreau 20x20 FGP 22003C',
-    image: '618caac0-482e-4498-a470-98d633b68275.jpeg',
+    image: 'FGP_22003',
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22005C',
     description: 'Carreau 20x20 FGP 22005C',
-    image: ''
+    image: 'FGP_22005'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22007C',
     description: 'Carreau 20x20 FGP 22007C',
-    image: ''
+    image: 'FGP_22007'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22008',
     description: 'Carreau 20x20 FGP 22008',
-    image: ''
+    image: 'FGP_22008'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22009',
     description: 'Carreau 20x20 FGP 22009',
-    image: ''
+    image: 'FGP22009'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22011C',
     description: 'Carreau 20x20 FGP 22011C',
-    image: ''
+    image: 'FGP_22011'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22012',
     description: 'Carreau 20x20 FGP 22012',
-    image: ''
+    image: 'FGP_22012'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22013C',
     description: 'Carreau 20x20 FGP 22013C',
-    image: ''
+    image: 'FGP_22013'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22014',
     description: 'Carreau 20x20 FGP 22014',
-    image: ''
+    image: 'FGP_22014'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22015C',
     description: 'Carreau 20x20 FGP 22015C',
-    image: ''
+    image: 'FGP_22015'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22016C',
     description: 'Carreau 20x20 FGP 22016C',
-    image: ''
+    image: 'FGP_22016'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22017',
     description: 'Carreau 20x20 FGP 22017',
-    image: ''
+    image: 'FGP_22017'
 },
 {
     category: 'carreaux-20x20',
     name: 'YM 22024',
     description: 'Carreau 20x20 YM 22024',
-    image: ''
+    image: 'YM_22024'
 },
-{
-    category: 'carreaux-20x20',
-    name: 'YM 22033',
-    description: 'Carreau 20x20 YM 22033',
-    image: ''
-},
+
     ////////////////////////////////////
 {
     category: 'carreaux-20x30',
