@@ -5,79 +5,79 @@ document.addEventListener('DOMContentLoaded', () => {
     category: 'carreaux-20x20',
     name: 'FGP 22003C',
     description: 'Carreau 20x20 FGP 22003C',
-    image: 'FGP_22003',
+    image: 'FGP_22003.JPG',
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22005C',
     description: 'Carreau 20x20 FGP 22005C',
-    image: 'FGP_22005'
+    image: 'FGP_22005.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22007C',
     description: 'Carreau 20x20 FGP 22007C',
-    image: 'FGP_22007'
+    image: 'FGP_22007.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22008',
     description: 'Carreau 20x20 FGP 22008',
-    image: 'FGP_22008'
+    image: 'FGP_22008.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22009',
     description: 'Carreau 20x20 FGP 22009',
-    image: 'FGP22009'
+    image: 'FGP22009.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22011C',
     description: 'Carreau 20x20 FGP 22011C',
-    image: 'FGP_22011'
+    image: 'FGP_22011.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22012',
     description: 'Carreau 20x20 FGP 22012',
-    image: 'FGP_22012'
+    image: 'FGP_22012.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22013C',
     description: 'Carreau 20x20 FGP 22013C',
-    image: 'FGP_22013'
+    image: 'FGP_22013.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22014',
     description: 'Carreau 20x20 FGP 22014',
-    image: 'FGP_22014'
+    image: 'FGP_22014.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22015C',
     description: 'Carreau 20x20 FGP 22015C',
-    image: 'FGP_22015'
+    image: 'FGP_22015.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22016C',
     description: 'Carreau 20x20 FGP 22016C',
-    image: 'FGP_22016'
+    image: 'FGP_22016.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'FGP 22017',
     description: 'Carreau 20x20 FGP 22017',
-    image: 'FGP_22017'
+    image: 'FGP_22017.JPG'
 },
 {
     category: 'carreaux-20x20',
     name: 'YM 22024',
     description: 'Carreau 20x20 YM 22024',
-    image: 'YM_22024'
+    image: 'YM_22024.JPG'
 },
 
     ////////////////////////////////////
